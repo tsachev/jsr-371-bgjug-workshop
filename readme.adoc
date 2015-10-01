@@ -1,5 +1,5 @@
 = JUG Site
 
-This is very simple project that we hacked on during @bgjug workshop on mvc 1.0 (aka JSR 371).
+This is very simple project that we hacked on during https://github.com/bgjug[@bgjug] workshop on mvc 1.0 (aka JSR 371).
 
 https://twitter.com/bgjug/status/649283757556547585
